@@ -41,6 +41,16 @@ locals {
 
       ]
     }
+    Bjarni = {
+      ssh_keys = [
+        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMDu2VdroRSdGoDyVhGW626ePZaLQCwa7m1khXq4odfI 12302152@student.pxl.be",
+      ]
+    }
+    Runar = {
+      ssh_keys = [
+        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBKgm5n+eS/QiGrUHD6i2zFJRsfdEJtzhgJXLggQjuEz runar@runar"
+      ]
+    }
   }
 }
 
