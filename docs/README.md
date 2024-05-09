@@ -35,5 +35,10 @@ servers = {
     "instance_ipv4_addr" = "128.140.125.20"
     "instance_ipv6_addr" = "2a01:4f8:c013:3879::1"
   }
+  "yinnis" = {
+    "instance_fqdn" = "server-of-yinnis.pxl.bjth.xyz"
+    "instance_ipv4_addr" = "49.13.217.80"
+    "instance_ipv6_addr" = "2a01:4f8:c17:f9ce::1"
+  }
 }
 ```
