@@ -55,6 +55,11 @@ locals {
         "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIrvcSz2EnQieZyeUOm7aiQN+WCng1uH8fp2Nt/BrAuo Anish.Pun@student.pxl.be",
       ]
     }
+    Ward = {
+      ssh_keys = [
+        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIPBikgZA3bQmkp25kk2A9XKAWbdVro1DXVmng1p0+X5 12302622@student.pxl.be",
+      ]
+    }
   }
 }
 
